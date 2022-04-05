@@ -30,6 +30,7 @@ body {background-image: url("https://wallpaperaccess.com/full/1155096.jpg");
     letter-spacing: -5px;
     font-family: 'Babylonica';
     text-shadow: 10px 10px 6px #4E148C;
+    margin: 0px;
 }
 
 .sobrock {width: 441px;
@@ -39,6 +40,7 @@ body {background-image: url("https://wallpaperaccess.com/full/1155096.jpg");
 }
 
 .video-container {text-align: center;
+    margin-top: 0px;
     
 }
 
@@ -54,6 +56,7 @@ h2 a {text-decoration: none;
 }
 
 .newsletter-container {text-align: center;
+    margin-top: 100px;
     
 }
 
@@ -69,4 +72,10 @@ form #button {background-color:#4E148C;
     height: 25px;
     font-family: 'Babylonica';
     font-size: 15px;
+}
+
+.footer {text-align: center;
+    font-family: 'Babylonica';
+    color: white;
+    margin-top: 50px;
 }
