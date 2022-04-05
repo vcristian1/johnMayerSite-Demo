@@ -12,13 +12,16 @@ body {background-image: url("https://wallpaperaccess.com/full/1155096.jpg");
 
 }
 
+#link:hover {color: #4E148C;
+
+}
+
 .container .social li a {text-decoration: none;
     font-family: 'Babylonica';
     color: white;
     font-size: 35px;
     font-style: bold;
-    text-shadow: 10px 10px 6px #4E148C
-
+    text-shadow: 10px 10px 6px #4E148C;
 }
 
 .container #title {color: white;
