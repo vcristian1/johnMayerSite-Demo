@@ -8,7 +8,7 @@ body {background-image: url("https://wallpaperaccess.com/full/1155096.jpg");
 }
 
 .container .social li {display:inline-block;
-    padding: 20px;
+    padding: 15px;
 
 }
 
@@ -36,4 +36,37 @@ body {background-image: url("https://wallpaperaccess.com/full/1155096.jpg");
     height: 441px;
     padding: 20px;
 
+}
+
+.video-container {text-align: center;
+    
+}
+
+#sales:hover {color: white;
+
+}
+
+h2 a {text-decoration: none;
+    font-family: 'Babylonica';
+    color: #613DC1;
+    font-size: 35px;
+    font-style: Italic;
+}
+
+.newsletter-container {text-align: center;
+    
+}
+
+.newsletter-container h2, form {color: white;
+    font-style: italic;
+    font-family: 'Babylonica';
+    text-shadow: 10px 10px 6px #4E148C;
+}
+
+form #button {background-color:#4E148C;
+    color: white;
+    width: 50px;
+    height: 25px;
+    font-family: 'Babylonica';
+    font-size: 15px;
 }
