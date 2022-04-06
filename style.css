@@ -49,6 +49,13 @@ body {background-image: url("https://i.stack.imgur.com/7vMmx.jpg");
     text-shadow: 8px 4px 10px #4E148C;
 }
 
+#tour:hover {color: white;
+}
+
+#tour:active {color: white;
+    text-shadow: 8px 4px 10px #4E148C;
+}
+
 h2 a {text-decoration: none;
     font-family: 'Babylonica';
     color: #4E148C;
@@ -65,15 +72,21 @@ h2 a {text-decoration: none;
     font-family: 'Babylonica';
     text-shadow: 4px 2px 4px #4E148C;
     font-size: 30px;
+    margin-top: 0px;
+}
+
+.newsletter-container form .font-size {font-size: 20px;
+
 }
 
 form #button {background-color:#4E148C;
     color: white;
-    width: 50px;
-    height: 25px;
+    width: 75px;
+    height: 35px;
     font-family: 'Babylonica';
-    font-size: 15px;
-    border: solid white 2px;
+    font-size: 20px;
+    border: solid #858AE3 2px;
+    margin: 20px;
 }
 
 #button:hover {background-color:white;
@@ -83,12 +96,12 @@ form #button {background-color:#4E148C;
 
 #button:active {background-color: #858AE3;
     color: white;
-    border: solid white 2px;
+    border: solid #4E148C 2px;
 }
 
 .footer {text-align: center;
     font-family: 'Babylonica';
-    color: white;
+    color: #4E148C;
     margin-top: 50px;
     font-size: 10px;
 }
